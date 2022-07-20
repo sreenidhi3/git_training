@@ -7,4 +7,4 @@ Steps to configure git
 ### git config -- global [user.name](http://user.name) “yourname”
 
 - to check: git config user.name
-
+// hello world
